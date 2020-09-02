@@ -1,2 +1,8 @@
 # Analog-Clock
 The aim of this project is to implement an application package of Computer graphics using OpenGL. Here we represent the concepts displaying Analog clock in OpenGL.
+ABOUT GRAPHICS OpenGL: Activities as wide – ranging as film making, publishing, banking and education continue to undergo revolutionary changes as these technologies alter the ways in which we conduct our daily activities. The combination of computers, networks and the complex human visual system, through computer graphics, has led to new ways of displaying information, seeing virtual worlds and communicating with people and machines. A class in computer graphics allows the instructor to build all these topics in away that can be both informative and fun. Low level algorithms such as those that
+draw lines or fill polygons are used in OpenGL.
+The development of OpenGL resolved both of the difficulties that were experienced with other APIs and with the alternative of using home – brewed s/w .
+OpenGL today is supported in all platforms. A clock or watch is called "analog" when it has moving hands and hours marked from 1 to 12 to show you the time.
+Analog clocks usually indicate time using angles. The most common clock face uses a fixed numbered dial or dials and moving hand or hands. It usually has a circular scale of 12hours, which can also serve as a scale of 60 minutes,and 60 seconds if the clock has a second hand. Many other styles and designs have been used throughout the years, including dials divided into 6,8, 10, and 24hours. The only other widely used clock face to day is the 24 hour analog dial,
+because of the use of24 hour time in military organizations and time tables.
